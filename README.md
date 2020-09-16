@@ -1,3 +1,3 @@
 # Simulating-Infectious-Diseases
 
-Rough code from a research project I'm currently working on. The real stuff is in a private repo.
+Rough draft code from a research project I'm currently working on. The actual refined code is in a private repo.
